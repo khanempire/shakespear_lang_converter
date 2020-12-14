@@ -41,6 +41,7 @@ textarea{
     font-style: italic;
     color: white;
     font-size: large;
+    border-radius: 25%;
 }
 
 .translate-heading{
